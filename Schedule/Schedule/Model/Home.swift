@@ -9,12 +9,11 @@
 import SwiftUI
 
 struct Home: View {
-    var Rows=8
-    var Cols=7
+    
     var body: some View {
-            ForEach(0..<Cols){ col in
+            
                 Text("this is")
-            }
+            
         }
     }
 

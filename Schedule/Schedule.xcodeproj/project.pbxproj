@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		7C1636DA24D47723002F0A7C /* AddClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C1636D924D47722002F0A7C /* AddClass.swift */; };
+		7C2392B424D76E450046C7B1 /* Grid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2392B324D76E450046C7B1 /* Grid.swift */; };
+		7C69785324D9E56600DF6672 /* TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C69785224D9E56600DF6672 /* TableView.swift */; };
 		7CE6628F24D1CA9D0050A0DC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CE6628E24D1CA9D0050A0DC /* AppDelegate.swift */; };
 		7CE6629124D1CA9D0050A0DC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CE6629024D1CA9D0050A0DC /* SceneDelegate.swift */; };
 		7CE6629324D1CA9D0050A0DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CE6629224D1CA9D0050A0DC /* ContentView.swift */; };
@@ -39,6 +41,8 @@
 
 /* Begin PBXFileReference section */
 		7C1636D924D47722002F0A7C /* AddClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddClass.swift; sourceTree = "<group>"; };
+		7C2392B324D76E450046C7B1 /* Grid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grid.swift; sourceTree = "<group>"; };
+		7C69785224D9E56600DF6672 /* TableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableView.swift; sourceTree = "<group>"; };
 		7CE6628B24D1CA9D0050A0DC /* Schedule.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Schedule.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CE6628E24D1CA9D0050A0DC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7CE6629024D1CA9D0050A0DC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -149,6 +153,8 @@
 				7CE662BF24D1D2FE0050A0DC /* Home.swift */,
 				7CE662C124D1DA650050A0DC /* WeekdayHeader.swift */,
 				7C1636D924D47722002F0A7C /* AddClass.swift */,
+				7C2392B324D76E450046C7B1 /* Grid.swift */,
+				7C69785224D9E56600DF6672 /* TableView.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -289,6 +295,8 @@
 				7C1636DA24D47723002F0A7C /* AddClass.swift in Sources */,
 				7CE662C224D1DA650050A0DC /* WeekdayHeader.swift in Sources */,
 				7CE662C024D1D2FE0050A0DC /* Home.swift in Sources */,
+				7C69785324D9E56600DF6672 /* TableView.swift in Sources */,
+				7C2392B424D76E450046C7B1 /* Grid.swift in Sources */,
 				7CE6629324D1CA9D0050A0DC /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
